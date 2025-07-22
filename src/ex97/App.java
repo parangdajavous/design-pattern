@@ -33,8 +33,11 @@ class 덱스 extends 전투칼 {
     }
 }
 
-class 백종원 {
-
+class 백종원 extends 요리칼 {
+    @Override
+    public void 요리() {
+        
+    }
 }
 
 public class App {
